@@ -1,0 +1,2 @@
+Para iniciar um repositório no git é utilizado o comando git init dentro do diretório que você deseja tornar um repositório
+Para saber se realmente o git está monitorando a pasta desejada é utilizado o comando git status
