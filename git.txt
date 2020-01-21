@@ -1,2 +1,4 @@
 Para iniciar um repositório no git é utilizado o comando git init dentro do diretório que você deseja tornar um repositório
 Para saber se realmente o git está monitorando a pasta desejada é utilizado o comando git status
+Para adicionar um arquivo para śer monitorado pelo git é utilizado o comando git add <nome do arquivo> ou caso queira que todos os arquivos dos diretórios sejam monitorados é colocado o . depois do git add
+Para que as alterações fiquem salvas dentro do git é utilizado o git commit como boa prática é bom que se adcione um comentário quando alterações forem salvas então a sintaxe para salvar e deixar uma mensagem é de git commit -m
