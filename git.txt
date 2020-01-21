@@ -4,3 +4,8 @@ Para adicionar um arquivo para śer monitorado pelo git é utilizado o comando g
 Para que as alterações fiquem salvas dentro do git é utilizado o git commit como boa prática é bom que se adcione um comentário quando alterações forem salvas então a sintaxe para salvar e deixar uma mensagem é de git commit -m
 termo head no git é o nosso estado atual onde o git nos colocou
 Workin tree local onde os arquivos estão sendo realmente armazenados
+Git log é o comando que mostra as alterações que foram feitas em todos os arrquivos até o presente o momento
+Para que seja realizada a configuração do git com a sua conta e tudo mais é utilizado o comando git config
+O comando git log --oneline é utilizado para trazer as informções dos commits em apenas uma linha
+Para que sejá possível ver os commits e as alterações que foram feitas neles é utilizado o comando git log -p
+Para que possa personalizar o que vem no comando log é utilizado o comando --pretty ou seja a sitaxe fica git log  --pretty=format: %h %s nesse exemplo ele trás a informação do head resumida e a mensagem que foi deixada ao realizar o commit
