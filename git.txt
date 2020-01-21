@@ -19,3 +19,4 @@ Para renomear o servidor remoto é utilizado o seguinte comando guit remote rena
 branche são tipo grupos em que os usuários se encontram para que fique mais organizado o desenvolvimento
 Para criar uma nova branche é utilizado o comando git branch nome da branch
 Para que seja possível eu sair de uma branch para ir para outra é utilizado o comando git checkout nome do branch
+teste para o branch diferente
