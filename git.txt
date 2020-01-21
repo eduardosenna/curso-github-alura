@@ -9,3 +9,6 @@ Para que seja realizada a configuração do git com a sua conta e tudo mais é u
 O comando git log --oneline é utilizado para trazer as informções dos commits em apenas uma linha
 Para que sejá possível ver os commits e as alterações que foram feitas neles é utilizado o comando git log -p
 Para que possa personalizar o que vem no comando log é utilizado o comando --pretty ou seja a sitaxe fica git log  --pretty=format: %h %s nesse exemplo ele trás a informação do head resumida e a mensagem que foi deixada ao realizar o commit
+Para que o git ignore um arquivo que está no seu repositório é criado um arquivo chamado .gitignore e dentro dele é digitado o nome dos arquivos que não vão ser monitorados pelo git
+Para que se crie um repositório remoto é criado um diretório dentro dele é utilizado o comando git --bare
+Para que seu outro repositório enxergue o seu repositório remoto é utilizado o comando git remote add nome que quer dar para seu sert=viidor remoto e o caminho que ele se encontra
