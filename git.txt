@@ -20,3 +20,4 @@ branche são tipo grupos em que os usuários se encontram para que fique mais or
 Para criar uma nova branche é utilizado o comando git branch nome da branch
 Para que seja possível eu sair de uma branch para ir para outra é utilizado o comando git checkout nome do branch
 teste para o branch diferente
+Git merge é o comando para unir todas as modificações feitas em ramificações diferentes
