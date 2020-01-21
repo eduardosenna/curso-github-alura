@@ -16,3 +16,6 @@ Para que seja utilizado os códigos que estão dentro do repositório remoto é 
 Para que seja feito o envio dos arquivos de um repositório normal para um repositório remoto é utilizado o comando git push e passo o nome do meu repositório remoto e o branch que está
 Para que outro usuário possa trazer os arquivos de dentro do repositório remoto é utilizado o comando git pull nome do servidor remoto e do branch que se encontra
 Para renomear o servidor remoto é utilizado o seguinte comando guit remote rename e o nome que deseja colocar
+branche são tipo grupos em que os usuários se encontram para que fique mais organizado o desenvolvimento
+Para criar uma nova branche é utilizado o comando git branch nome da branch
+Para que seja possível eu sair de uma branch para ir para outra é utilizado o comando git checkout nome do branch
