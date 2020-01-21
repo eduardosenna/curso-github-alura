@@ -12,3 +12,7 @@ Para que possa personalizar o que vem no comando log é utilizado o comando --pr
 Para que o git ignore um arquivo que está no seu repositório é criado um arquivo chamado .gitignore e dentro dele é digitado o nome dos arquivos que não vão ser monitorados pelo git
 Para que se crie um repositório remoto é criado um diretório dentro dele é utilizado o comando git --bare
 Para que seu outro repositório enxergue o seu repositório remoto é utilizado o comando git remote add nome que quer dar para seu sert=viidor remoto e o caminho que ele se encontra
+Para que seja utilizado os códigos que estão dentro do repositório remoto é utilizado o comando git clone caminho do repositório remoto
+Para que seja feito o envio dos arquivos de um repositório normal para um repositório remoto é utilizado o comando git push e passo o nome do meu repositório remoto e o branch que está
+Para que outro usuário possa trazer os arquivos de dentro do repositório remoto é utilizado o comando git pull nome do servidor remoto e do branch que se encontra
+Para renomear o servidor remoto é utilizado o seguinte comando guit remote rename e o nome que deseja colocar
